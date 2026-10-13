@@ -1,5 +1,5 @@
-# RoboCupRescueSim_JP
-RoboCupRescue Simulation Japanese Information
+# RRS Tutorials
+RRSなのかRCRSなのかという問題はあるが，今はRRSを優先して使ってる
 
 ここにページを作りたいなと感じている．気持ちはある．
 
